@@ -39,7 +39,7 @@ full-stack-2026-2/
 ```
 
 > Novas pastas e arquivos serão adicionados ao longo do semestre, conforme o desenvolvimento das atividades da disciplina.
-
+> Criar um projeto React com Vite: npm create vite@latest . -- --template react
 ---
 
 **Aluno:** João Antonio Carboni Gomes
