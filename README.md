@@ -37,8 +37,6 @@ full-stack-2026-2/
 │
 └── README.md
 ```
-
-> Novas pastas e arquivos serão adicionados ao longo do semestre, conforme o desenvolvimento das atividades da disciplina.
 > Criar um projeto React com Vite: npm create vite@latest . -- --template react
 ---
 
